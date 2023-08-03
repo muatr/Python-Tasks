@@ -1,4 +1,4 @@
-# Python flatten and reverse functions
+## Python flatten and reverse functions
 
 # Flatten
 1- Write a function that flattens a list. Its elements can consist of multi-layered lists (such as [[3],2]) or non-scalar data. For example:
