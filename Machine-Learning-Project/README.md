@@ -1,4 +1,4 @@
-## Machine Learning Project: Wine Quality Classification
+## [Machine Learning Project: Wine Quality Classification](https://github.com/muatr/Python-Tasks/blob/main/Machine-Learning-Project/MLProject.ipynb)
 
 Step 1: Data Download
 
